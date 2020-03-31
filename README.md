@@ -12,14 +12,14 @@ Dúvidas ou sugestões? rrdoliveira@senacrs.com.br
 ## One-page web
 
   - [Documentação](docs/documento%207.md)
-  - Primeira Etapa: [Preparação da estrutura do projeto](https://github.com/romuloreis/DWM/blob/master/docs/primeira-etapa.md)
-  - Segunda Etapa: [Hero Header](https://github.com/romuloreis/DWM/blob/master/docs/segunda-etapa.md)
-  - Terceira Etapa: [Features](https://github.com/romuloreis/DWM/blob/master/docs/terceira-etapa.md)
-  - Quarta Etapa: [Galeria de imagens](https://github.com/romuloreis/DWM/blob/master/docs/quarta-etapa.md)
-  - Quinta Etapa: [Lista de passos](https://github.com/romuloreis/DWM/blob/master/docs/quinta-etapa.md)
-  - Sexta Etapa: [Cidades Atendidas](https://github.com/romuloreis/DWM/blob/master/docs/sexta-etapa.md)
-  - Sétima Etapa: [Depoimentos](https://github.com/romuloreis/DWM/blob/master/docs/setima-etapa.md)
-  - Oitava Etapa: [Rodapé](https://github.com/romuloreis/DWM/blob/master/docs/oitava-etapa.md)
+  - Primeira Etapa: [Preparação da estrutura do projeto](docs/primeira-etapa.md)
+  - Segunda Etapa: [Hero Header](docs/segunda-etapa.md)
+  - Terceira Etapa: [Features](docs/terceira-etapa.md)
+  - Quarta Etapa: [Galeria de imagens](docs/quarta-etapa.md)
+  - Quinta Etapa: [Lista de passos](docs/quinta-etapa.md)
+  - Sexta Etapa: [Cidades Atendidas](docs/sexta-etapa.md)
+  - Sétima Etapa: [Depoimentos](docs/setima-etapa.md)
+  - Oitava Etapa: [Rodapé](docs/oitava-etapa.md)
   
 ### O site construido seguindo os passos acima, ficará similar ao site ilustrado a seguir:
   
