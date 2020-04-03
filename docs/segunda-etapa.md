@@ -34,7 +34,7 @@ Primeiramente vamos criar nosso header no arquivo index.html. Dentro do header v
     </body>
 ```
 
-Após verificar como ficou o index.html no navegador, vamos procurar uma imagem (bem grande) para usar como fundo do nosso header. Baixe o arquivo da imagem selecionada no diretório resources/css/img, pois vai ser utilizado apenas pelo css, não sendo um conteúdo propriamente dito da nossa página.
+Após verificar como ficou o index.html no navegador, vamos procurar uma imagem (bem grande) para usar como fundo do nosso header. Baixe o arquivo da imagem selecionada no diretório resources/css/img, pois vai ser utilizado apenas pelo css, não sendo um conteúdo propriamente dito da nossa página. Caso você queira usar a mesma imagem do exemplo, basta clicar [aqui](../assets/nome_img_hero.jpg) para baixar.
 
 Após baixar a imagem, vamos definir ela como imagem de fundo do header no arquivo style.css
 
