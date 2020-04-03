@@ -89,7 +89,7 @@ html {
 
 ```
 
-Agora vamos baixar o arquivo [grid.css](https://github.com/romuloreis/DWDM/blob/master/grid.css) no diretório vendors/css/. Esse arquivo grid.css foi personalizado por mim para esse projeto, mas foi fornecido por responsivegridsystem.com. Fiz isso, para facilitar, pois ao baixar o sistema de grid do site, ele vai trazer um arquivo css para conjunto de colunas (1-of-2.css, 1-of-3.css, etc). 
+Agora vamos baixar o arquivo [grid.css](../assets/grid.css) no diretório vendors/css/. Esse arquivo grid.css foi personalizado por mim para esse projeto, mas foi fornecido por responsivegridsystem.com. Fiz isso, para facilitar, pois ao baixar o sistema de grid do site, ele vai trazer um arquivo css para conjunto de colunas (1-of-2.css, 1-of-3.css, etc). 
 
 Para usar o grid.css é necessário importar ele no html, como demonstrado no trecho de código abaixo:
 
