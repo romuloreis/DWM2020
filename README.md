@@ -33,7 +33,7 @@ Dúvidas ou sugestões? rrdoliveira@senacrs.com.br
   
   ## Tornando o site responsivo
   
-  - [Media Queries - Tornando o site responsivo! Finalmente!](https://github.com/romuloreis/DWDM/blob/master/mediaqueries.md)
+  - [Media Queries - Tornando o site responsivo! Finalmente!](docs/mediaqueries.md)
   - [Dicas para suportar multiplos navegadores](https://github.com/romuloreis/DWDM/blob/master/dicas_navegadores.md)
   - [Sticky Navigation](https://github.com/romuloreis/DWDM/blob/master/sticky_navigation.md)
   - [Menu Responsivo](https://github.com/romuloreis/DWDM/blob/master/menuresponsivo.md)
