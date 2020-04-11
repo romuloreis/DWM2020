@@ -2,13 +2,13 @@
 
 "Uma das maiores tendências em web design atualmente é o uso de imagens grandes. E não apenas imagens grandes, mas completamente grandes, que parecem ganhar vida na tela. Quando usado no topo de uma página, isso geralmente é chamado de cabeçalho de herói (Hero Header)."
 
-![Image of hero header from playstation](https://github.com/romuloreis/DWDM/blob/master/assets/hero-header-pRaystation.png)
+![Image of hero header from playstation](/assets/hero-header-pRaystation.png)
 Crédito da foto: [Playstation](https://www.playstation.com/en-us/)
 
-![Image of hero header from paypal](https://github.com/romuloreis/DWDM/blob/master/assets/hero-header-paypal.png)
+![Image of hero header from paypal](/assets/hero-header-paypal.png)
 Crédito da foto: [Paypal](https://www.paypal.com/br/home)
 
-![Image of hero header from this post](https://github.com/romuloreis/DWDM/blob/master/assets/hero-head-saudenoprato.png)
+![Image of hero header from this post](/assets/hero-head-saudenoprato.png)
 Hero header que será desenvolvido por nós.
 
 Nessa etapa, vamos construir a primeira parte da nossa one-page web.  Para saber mais sobre HERO HEADER, você pode acessar esse material:
