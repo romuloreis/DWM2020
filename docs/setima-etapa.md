@@ -3,7 +3,7 @@
 Nesta seção iremos apresentar o depoimento de algumas pessoas atendidas pelo Saúde no Prato, 
 juntamente com uma linda foto de fundo e uma de rosto para cada testemunho.
 
-![Image_of_testemunials](https://github.com/romuloreis/DWDM/blob/master/assets/testimonials.png)
+![Image_of_testemunials](/assets/testimonials.png)
 Imagem de como é a seção depoimentos da nossa página.
 
 **Conteúdo que iremos abordar:**
