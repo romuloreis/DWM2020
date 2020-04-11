@@ -3,7 +3,7 @@
 Nesta seção iremos apresentar dois "menus" de navegação secundários, sendo 
 o primeiro com links internos e o segundo com os links para nossas principais redes sociais.
 
-![Image_of_footer](https://github.com/romuloreis/DWDM/blob/master/assets/footer.png)
+![Image_of_footer](/assets/footer.png)
 Imagem de como será nossa seção de rodapé da página.
 
 **Conteúdo que iremos abordar:**
