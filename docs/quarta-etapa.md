@@ -6,13 +6,13 @@
   - Efeito zoom-in apenas com css
   - Maneira de escurecer e clarear imagens apenas com css
 
-![Image of photo_gallery from this post](https://github.com/romuloreis/DWDM/raw/master/assets/gallery.png)
+![Image of photo_gallery from this post](/assets/gallery.png)
 Galeria de Fotos que será desenvolvido por nós.
 
 Antes de irmos para o código, você deve baixar 8 imagens com boa qualidade no diretório resources/img e incluir a descrição delas 
 na documentação do projeto. Essa descrição será o conteúdo do atributo _alt_ e _title_ das imagens.
 
-  > Neste [link](https://github.com/romuloreis/DWDM/raw/master/assets/imagens_galeria.zip) estão disponiveis as imagens usadas neste documento.
+  > Neste [link](/assets/imagens_galeria.zip) estão disponiveis as imagens usadas neste documento.
 
 
 ## Criando a Seção Galeria de Fotos (_Section_ _Photos_)
