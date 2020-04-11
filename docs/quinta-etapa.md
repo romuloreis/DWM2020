@@ -279,7 +279,7 @@ Aumentanto apenas o espaçamento do ultimo passo. _last-of-type_ tem função si
 Note que o título da seção está muito próximo da galeria de fotos.
 Se você usar a ferramenta de desenvolvedor do Chrome. Ao inspecionar a página e selecionar a tag html _section_ com a classe _section-steps_ vai poder verificar que essa seção inicia mais em cima, como ilustrado na imagem abaixo. Isso está relacionado ao reset (_clear_) dos _floats_
 
-![Image of debug](https://github.com/romuloreis/DWDM/blob/master/assets/quinta-etapa-debug.png)
+![Image of debug](/assets/quinta-etapa-debug.png)
 Imagem ilustrando o "bug".
 
 Sempre que a gente define algumas propriedades _floats_, precisamos resetar (_clear_) eles.
