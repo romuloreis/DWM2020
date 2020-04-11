@@ -50,7 +50,7 @@ Título:
   7. Salada árabe - [fonte](https://craftlog.com/m/i/1584064=s1280=h960)
   8. Frango com legumes - [fonte](http://painel.perdigao.com.br/panel/sites/default/files/styles/is_product_cover_1240_858/public/recipes-images/salada-morna-frango.png?itok=FKzfTcZ3)
   
-  > [Clique aqui para baixar os arquivos de imagem](https://github.com/romuloreis/DWDM/raw/master/assets/imagens_galeria.zip)
+  > [Clique aqui para baixar os arquivos de imagem](/assets/imagens_galeria.zip)
   
 ## Seção 3: Lista de passos
 Título: Esperando o quê? - Bastam 3 passos
