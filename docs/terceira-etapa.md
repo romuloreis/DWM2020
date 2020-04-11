@@ -7,10 +7,10 @@ Após construir o hero header, vamos construir uma página para apresentar as pr
   - Fluid Grid na prática 
   - Icones
   
-![Image of feature page from web](https://github.com/romuloreis/DWDM/blob/master/assets/feature-list-example.jpg)
+![Image of feature page from web](/assets/feature-list-example.jpg)
 Exemplo de página de features.
      
-![Image of feature page from web]( https://github.com/romuloreis/DWDM/blob/master/assets/features-saudenoprato.png)
+![Image of feature page from web](/assets/features-saudenoprato.png)
 Página de features que será desenvolvido neste post.
    
   
