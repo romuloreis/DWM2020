@@ -43,7 +43,7 @@ Abra seu editor de texto
  - Crie o documento html **index.html** (Na pasta raíz do projeto) 
  - Crie a folha de estilo **style.css** (Dentro de reources/css)
 
-Vamos criar a estrutura básica de html no arquivo index.html, incluindo a importação do nosso arquivo de estilo style.css, do normalize.css para corrigir possíveis bus de navegadores e da fonte Lato fornecida pela api da google.
+Vamos criar a estrutura básica de html no arquivo index.html, incluindo a importação do nosso arquivo de estilo style.css, do normalize.css para corrigir possíveis bugs de navegadores e da fonte Lato fornecida pela api da google.
 
 ```html
 <!DOCTYPE html>
