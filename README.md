@@ -45,12 +45,14 @@ Dúvidas ou sugestões? rrdoliveira@senacrs.com.br
 ## Links úteis
   - Editor de imagens online: [iloveimg](https://www.iloveimg.com/)
   - Otimizador de imagens online: [imagecompressor](https://imagecompressor.com/)
-  - Ícones: [flaticon](https://www.flaticon.com/), [fontawesome](https://fontawesome.com/), [ionicons](https://ionicons.com/)
-  - Banco de Imagens: [unsplash](https://unsplash.com/), [burst](https://pt.shopify.com/burst/imagens-sem-direitos-autorais), [pexels](https://www.pexels.com/pt-br/)
+  - Ícones: [flaticon](https://www.flaticon.com/), [fontawesome](https://fontawesome.com/), [ionicons](https://ionicons.com/), [FeatherIcons](https://feathericons.com/)
+  - Banco de Imagens: [unsplash](https://unsplash.com/), [burst](https://pt.shopify.com/burst/imagens-sem-direitos-autorais), [pexels](https://www.pexels.com/pt-br/), [StorySet](https://storyset.com/)
   - Fontes: [Google Fonts](https://fonts.google.com/)
   - Compressores de script: [cssminifier](https://cssminifier.com/), [minifier](https://www.minifier.org/)
   - Wireframes: [Figma](https://www.figma.com/), [Draw.io](https://www.draw.io/), [NinjaMock](https://ninjamock.com/), [Adobe XD](https://www.adobe.com/br/products/xd.html)
   - Criar notas online: [donpad](http://dontpad.com/)
+  - Apresentações: [Slidesgo](https://slidesgo.com/)
+  - Geradores de logos: [LogoMaster](https://logomaster.ai/), [PlaceIt](https://br.placeit.net/)
   - JQuery no servicor do google https://developers.google.com/speed/libraries/#jquery
   
 ## Tópicos interessantes
