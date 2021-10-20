@@ -45,7 +45,7 @@ Dúvidas ou sugestões? rrdoliveira@senacrs.com.br
 ## Links úteis
   - Editor de imagens online: [iloveimg](https://www.iloveimg.com/)
   - Otimizador de imagens online: [imagecompressor](https://imagecompressor.com/)
-  - Ícones: [flaticon](https://www.flaticon.com/), [fontawesome](https://fontawesome.com/), [ionicons](https://ionicons.com/), [FeatherIcons](https://feathericons.com/), [favicon.io](https://favicon.io/)
+  - Ícones: [flaticon](https://www.flaticon.com/), [fontawesome](https://fontawesome.com/), [ionicons](https://ionicons.com/), [FeatherIcons](https://feathericons.com/), [favicon.io](https://favicon.io/), [Material Icons](https://fonts.google.com/icons?selected=Material+Icons)
   - Banco de Imagens: [unsplash](https://unsplash.com/), [burst](https://pt.shopify.com/burst/imagens-sem-direitos-autorais), [pexels](https://www.pexels.com/pt-br/), [StorySet](https://storyset.com/), [undraw](https://undraw.co/)
   - Fontes: [Google Fonts](https://fonts.google.com/)
   - Compressores de script: [cssminifier](https://cssminifier.com/), [minifier](https://www.minifier.org/)
